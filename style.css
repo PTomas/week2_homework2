@@ -1,0 +1,20 @@
+.navbar{
+    color:lightskyblue;
+}
+
+#jombotron{
+    background-image: url("city.jpeg");
+}
+
+.page1{
+    margin:150px;
+    padding: 30px;
+    align-content: center;
+}
+
+.page2{
+    margin:150px;
+    padding: 30px;
+    align-content: center;
+}
+
