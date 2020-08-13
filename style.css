@@ -1,20 +1,46 @@
-.navbar{
-    color:lightskyblue;
+.inner{
+    background-color:darkslategrey !important;
+    color: white !important; 
 }
 
-#jombotron{
-    background-image: url("city.jpeg");
+body{
+    background-image: url("./assets/background-repeat.jpg") !important;
 }
 
-.page1{
-    margin:150px;
-    padding: 30px;
-    align-content: center;
+.nav > a{
+    color:white !important;
+    font-size: 25px !important;
 }
 
-.page2{
-    margin:150px;
-    padding: 30px;
-    align-content: center;
+.navlink{
+    color: black !important;
 }
+
+#jumboLink{
+    background-image: url("./assets/city.jpg") !important;
+    background-repeat: no-repeat !important;
+    background-size: 100% 100% !important;
+    margin-top: 1in !important;
+    color: white !important;
+}
+
+.my-4{
+    color: white !important;
+}
+
+#photos{
+    text-align: center !important;
+    margin:150px !important;
+    padding: 30px !important;
+    align-content: center !important;
+}
+}
+
+#form{
+    margin:150px !important;
+    padding: 30px !important;
+    align-content: center !important;
+}
+
+
 
