@@ -1,6 +1,6 @@
 var x = document.getElementById("jumboLink");
 var y = document.getElementById("photoLink");
-var x = document.getElementById("jumboLink");
+var z = document.getElementById("formLink");
 
 
   function jumboFunction() {
@@ -30,6 +30,7 @@ var x = document.getElementById("jumboLink");
   document.getElementById("formLink").style.display = "none";
   function formFunction() {
     //var x = document.getElementById("jumboLink");
+    
     if (z.style.display === "none") {
         z.style.display = "block";
         x.style.display = "none";
