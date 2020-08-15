@@ -30,7 +30,7 @@ var z = document.getElementById("formLink");
   document.getElementById("formLink").style.display = "none";
   function formFunction() {
     //var x = document.getElementById("jumboLink");
-    
+    console.log("click")
     if (z.style.display === "none") {
         z.style.display = "block";
         x.style.display = "none";

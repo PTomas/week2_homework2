@@ -37,12 +37,11 @@ body{
     height: 300px;
     width: 400px;
 }
-#about{
+#aboutSect{
     background-color: white !important;
     border-radius: 5px;
 }
-about{
-    margin: 30px !important;
+.about{
     padding: 30px !important;
 }
 
@@ -59,7 +58,7 @@ about{
 }
 .marContainer1, .marContainer2, .marContainer3{
     margin-left: 30px !important;
-    align-content: center !important;
+    text-align: center;
 }
 
 #form{
